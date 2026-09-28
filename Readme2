@@ -1,0 +1,5 @@
+About this project: Python-based quantitative LBO screener for S&P 500 and Nasdaq-100.
+
+Key Metrics Screened: IRR, MoIC, DSCR, Interest Coverage, and FCF Conversion.
+
+How to Run: python lbo_screener.py
